@@ -1,2 +1,4 @@
-# mrp-jobs
-Jobs for SAW MRP
+# MilitaryRPJobs
+Inital Jobs due for Friday
+TODO: Fix Models
+TODO: Fix Jobs
